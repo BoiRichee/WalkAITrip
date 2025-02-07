@@ -1,0 +1,2 @@
+# WalkAITrip
+AI Trip Planner
