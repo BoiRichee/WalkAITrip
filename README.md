@@ -1,2 +1,2 @@
-# WalkAITrip
+# Walk App
 AI Trip Planner
